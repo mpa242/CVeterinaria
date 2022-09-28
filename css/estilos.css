@@ -1,0 +1,41 @@
+body
+{
+    background-image: url('../imagenes/perro\ principal.png');
+    background-size: cover;
+}
+h2{
+    align-content: center;
+    color: white;
+}
+.formulario-registro
+{
+    
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: #ffffff;
+
+}
+.controles
+{
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 2px solid #1f51c5;
+    font-size: 16px;
+    color: white;
+}
+.ppal{
+    text-align: center;
+    border-radius: 4px;
+    border: 2px solid #1f51c5;
+    font-size: 16px;
+    color: white;
+
+}
